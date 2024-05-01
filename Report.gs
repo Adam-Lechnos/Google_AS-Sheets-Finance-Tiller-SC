@@ -83,7 +83,7 @@ y - Effects remaining 'Total Spending Allowance' and never allocated
 
 ${spendWarnMessage}
   
-Detailed report: https://docs.google.com/spreadsheets/d/1NJYEI72r9MGutftoybLrUrDk49mVxeTJcWrQngZ3tho/edit#gid=469816328
+Detailed report: https://docs.google.com/spreadsheets/d/1x7Nk6Cc-ga2lx_iS3lgS6vEzzCbjLITkQtbrWkabtLk/edit#gid=10068321
 
 Groceries & Household Budget Tracking (how allocation is determined): https://docs.google.com/spreadsheets/d/1Iku7b5wy87PS5cuhEk5Eyh-dbCF9kIHZtm6KQxhmX0A
 ${additionalMessage}`; // Second column
